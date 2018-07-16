@@ -17,7 +17,5 @@ public class App
 	      Hello obj = (Hello) context.getBean("helloWorld");
 
 	      obj.printMessage();
-	      obj.printMessage();
-	      obj.printMessage();
 	   }
 }
